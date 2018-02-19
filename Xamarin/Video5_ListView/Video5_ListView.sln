@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video5_ListView", "Video5_ListView\Video5_ListView.csproj", "{8BA96BEA-21F3-4A60-8D61-A669EAAF4698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BA96BEA-21F3-4A60-8D61-A669EAAF4698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA96BEA-21F3-4A60-8D61-A669EAAF4698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA96BEA-21F3-4A60-8D61-A669EAAF4698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA96BEA-21F3-4A60-8D61-A669EAAF4698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
